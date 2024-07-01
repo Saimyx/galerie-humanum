@@ -12,7 +12,7 @@ Vous pourrez aussi acheter ses œuvres ou celles d’Adrien Albert, auteur et il
 ## Adresse
 [126 rue de la Carreterie à Avignon (intra-muros)](https://www.google.com/maps/place/126+Rue+Carreterie,+84000+Avignon/@43.9514635,4.8164814,20.58z/data=!4m6!3m5!1s0x12b5ec7bf054319f:0x8d65df6079c38f93!8m2!3d43.9514708!4d4.8165778!16s%2Fg%2F11c2czzdv5?entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD).
 
-<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.814975559711457%2C43.95081038957109%2C4.817491471767426%2C43.952169811116676&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.815305471420289%2C43.950804596515%2C4.817821383476258%2C43.9521640181931&amp;layer=mapnik&amp;marker=43.95148431124092%2C4.816563427448273" style="border: 1px solid black"></iframe>
 
 ## Horaires d'ouverture
 - Mercredi 3 juillet : 16h-19h
