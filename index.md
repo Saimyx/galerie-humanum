@@ -23,3 +23,7 @@ Vous pourrez aussi acheter ses œuvres ou celles d’Adrien Albert, auteur et il
 - *à voir…*
 
 ![Devanture de la galerie vide]({% link images/galerie.jpg %}) 
+
+## Humanum
+
+[Découvrez les spectacles proposés au théâtre Humanum](https://theatrehumanum.fr/programme/2024/) 
