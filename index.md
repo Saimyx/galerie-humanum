@@ -9,6 +9,11 @@ Pendant la durée du festival d’Avignon, les bénévoles du théâtre Humanum 
 
 Vous pourrez aussi acheter ses œuvres ou celles d’Adrien Albert, auteur et illustrateur du livre « Au feu Petit Pierre » d'après lequel a été créé le spectacle [Le Loup et Petit Pierre (à voir au théâtre Humanum)](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/) par des enseignant⋅es de maternelle, ainsi que d’autres livres.
 
+## Dédicaces d’Adrien Albert
+Dimanche 7 juillet, à l’occasion du [spectacle Le Loup et Petit Pierre](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/), nous avons le plaisir de vous annoncer la présence de l’auteur Adrien Albert pour une séance de dédicaces.
+
+À la sortie de la représentation (à 10h), le livre Au feu Petit Pierre sera en vente à la galerie.
+
 ## Adresse
 [126 rue de la Carreterie à Avignon (intra-muros)](https://www.google.com/maps/place/126+Rue+Carreterie,+84000+Avignon/@43.9514635,4.8164814,20.58z/data=!4m6!3m5!1s0x12b5ec7bf054319f:0x8d65df6079c38f93!8m2!3d43.9514708!4d4.8165778!16s%2Fg%2F11c2czzdv5?entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD).
 
