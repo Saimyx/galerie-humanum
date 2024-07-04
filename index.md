@@ -22,7 +22,7 @@ Dimanche 7 juillet, à l’occasion du [spectacle Le Loup et Petit Pierre](https
 ## Horaires d'ouverture
 - Du 3 au 21 juillet de 10h à 19h (sauf le vendredi 12 juillet)
 
-![Devanture de la galerie vide]({% link images/galerie.jpg %}) 
+![Devanture de la galerie vide]({% link images/galerie2C.jpg %}) 
 
 ## À propos
 
