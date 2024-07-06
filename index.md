@@ -31,4 +31,4 @@ Adresse : [126 rue de la Carreterie à Avignon (intra-muros)](https://www.googl
 
 ## À propos
 
-Site fièrement fait par le théâtre Humanum ([Découvrez notre programmation](https://theatrehumanum.fr/programme/2024)) avec le logiciel [Scribouilli](https://scribouilli.org/). 
+Site fièrement fait par le théâtre Humanum ([Découvrez nos spectacles pour le festival OFF](https://theatrehumanum.fr/programme/2024)) avec le logiciel [Scribouilli](https://scribouilli.org/). 
