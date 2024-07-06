@@ -14,10 +14,6 @@ Vous y verrez aussi :
   - [La Mémoire du Monde](https://www.lamemoiredumonde.fr/)
   - L’eau Vive
 
-
-### Ancien texte
-Vous pourrez aussi acheter ses œuvres ou celles d’Adrien Albert, auteur et illustrateur du livre « Au feu Petit Pierre » d'après lequel a été créé le spectacle [Le Loup et Petit Pierre (à voir au théâtre Humanum)](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/) par des enseignant⋅es de maternelle, ainsi que d’autres livres.
-
 ## Dédicaces d’Adrien Albert
 Dimanche 7 juillet, à l’occasion du [spectacle Le Loup et Petit Pierre](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/), nous avons le plaisir de vous annoncer la présence de l’auteur Adrien Albert pour une séance de dédicaces.
 
