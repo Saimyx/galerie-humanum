@@ -14,11 +14,6 @@ Vous y verrez aussi :
   - [La Mémoire du Monde](https://www.lamemoiredumonde.fr/)
   - L’eau Vive
 
-## Dédicaces d’Adrien Albert
-Dimanche 7 juillet, à l’occasion du [spectacle Le Loup et Petit Pierre](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/), nous avons le plaisir de vous annoncer la présence de l’auteur Adrien Albert pour une séance de dédicaces.
-
-À la sortie de la représentation (à 10h), le livre Au feu Petit Pierre sera en vente à la galerie.
-
 ## Venir nous voir
 
 La galerie est ouverte du 3 au 21 juillet de 10h à 19h (sauf le vendredi 12 juillet).
