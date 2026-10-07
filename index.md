@@ -5,24 +5,19 @@ in_menu: true
 ---
 # Galerie Humanum
 
-Pendant la durée du festival d’Avignon 2024, les bénévoles du théâtre Humanum ont permit de venir admirer le travail du dessinateur et illustrateur avignonnais Romain Joly ([voici un aperçu de ce qu'il fait sur son site web](https://romainjolyyy.com/)).
+Le théâtre Humanum relance (voir nos archives) une galerie d'art, ouverte toute l'année cette fois.
 
-On pouvait aussi y voir :
-- Des livres d’Adrien Albert, auteur et illustrateur du livre « Au feu Petit Pierre » d'après lequel a été créé le spectacle [Le Loup et Petit Pierre (à voir au théâtre Humanum)](https://theatrehumanum.fr/programme/2024/le-loup-et-petit-pierre/)
-- Les statues d'Isabelle Baldoli
-- Des livres des librairies partenaires :
-  - [La Mémoire du Monde](https://www.lamemoiredumonde.fr/)
-  - L’eau Vive
+En effet, nous vous proposons une galerie pour y exposer vos créations (et les vendre si vous voulez) au 132 rue de la Carreterie, en face de notre théâtre.
 
-## Infos pratiques
+Ce lieu sera utilisé par le théâtre pour la période du festival OFF d’Avignon.
 
-La galerie était ouverte du 3 au 21 juillet de 10h à 19h (sauf le vendredi 12 juillet).
+### Infos pratiques
 
-Adresse : [126 rue de la Carreterie à Avignon (intra-muros)](https://www.google.com/maps/place/126+Rue+Carreterie,+84000+Avignon/@43.9514635,4.8164814,20.58z/data=!4m6!3m5!1s0x12b5ec7bf054319f:0x8d65df6079c38f93!8m2!3d43.9514708!4d4.8165778!16s%2Fg%2F11c2czzdv5?entry=tts&g_ep=EgoyMDI0MDYyNi4wKgBIAVAD)
+Le local de la galerie est disponible du 1 septembre au 31 mai.
 
-<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.815305471420289%2C43.950804596515%2C4.817821383476258%2C43.9521640181931&amp;layer=mapnik&amp;marker=43.95148431124092%2C4.816563427448273" style="border: 1px solid black"></iframe>
+Adresse : [132 rue de la Carreterie à Avignon (intra-muros)](https://www.google.com/maps/place/132+Rue+Carreterie,+84000+Avignon/@43.9514805,4.8167343,20z/data=!4m6!3m5!1s0x12b5ec7bf302dbed:0x95cf1eeefd5e6026!8m2!3d43.9514925!4d4.8169478!16s%2Fg%2F11pw1xrch6?entry=ttu&g_ep=EgoyMDI2MTAwNC4wIKXMDSoASAFQAw%3D%3D)
 
-![Devanture de la galerie vide]({% link images/galerie2C.jpg %}) 
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed?bbox=4.815431535243989%2C43.95079494142029%2C4.81840342283249%2C43.9522316022663&amp;layer=mapnik&amp;marker=43.95151327618437%2C4.8169174790382385" style="border: 1px solid black"></iframe>
 
 ## À propos
 
